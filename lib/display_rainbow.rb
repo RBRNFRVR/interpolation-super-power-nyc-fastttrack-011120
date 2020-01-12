@@ -9,3 +9,4 @@
    puts "THE FIRST COLOR OF THE RAINBOW IS: #{display_rainbow[i]}"
    puts "THE FIRST COLOR OF THE RAINBOW IS: #{display_rainbow[v]}"
 end
+display_rainbow(color)
