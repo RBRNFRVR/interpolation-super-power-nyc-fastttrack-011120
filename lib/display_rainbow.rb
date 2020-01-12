@@ -6,6 +6,7 @@
    puts "THE FIRST COLOR OF THE RAINBOW IS: #{display_rainbow[o]}"
    puts "THE FIRST COLOR OF THE RAINBOW IS: #{display_rainbow[y]}"
    puts "THE FIRST COLOR OF THE RAINBOW IS: #{display_rainbow[g]}"
-   puts "THE FIRST COLOR OF THE RAINBOW IS: #{display_rainbow[r]}"
-   puts "THE FIRST COLOR OF THE RAINBOW IS: #{display_rainbow[r]}"
-   puts "THE FIRST COLOR OF THE RAINBOW IS: #{display_rainbow[r]}"
+   puts "THE FIRST COLOR OF THE RAINBOW IS: #{display_rainbow[b]}"
+   puts "THE FIRST COLOR OF THE RAINBOW IS: #{display_rainbow[i]}"
+   puts "THE FIRST COLOR OF THE RAINBOW IS: #{display_rainbow[v]}"
+end
