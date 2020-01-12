@@ -9,4 +9,3 @@
    puts "THE FIRST COLOR OF THE RAINBOW IS: #{display_rainbow[5]}"
    puts "THE FIRST COLOR OF THE RAINBOW IS: #{display_rainbow[6]}"
 end
-display_rainbow(color)
